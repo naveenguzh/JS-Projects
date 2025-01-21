@@ -1,0 +1,44 @@
+#nu{
+    display: block;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 10em;
+}
+#container{
+    text-align: center;
+}
+.btns{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: black;
+    transition: 0.25s;
+    
+}
+.btns:hover{
+    background-color: rgb(101, 170, 198);
+}
+hr{
+    height: 5px;
+    color: black;
+    background-color: black;
+}
+#input{
+    text-align: center;
+}
+#button{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: black;
+    transition: 0.25s;
+}
+.btns:hover{
+    background-color: rgb(101, 170, 198);
+}
+.btn:hover{
+    background-color: rgb(101, 170, 198);
+}
