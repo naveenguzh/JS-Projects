@@ -1,0 +1,17 @@
+body{
+    font-size: 2em;
+    text-align: center;
+}
+label{
+    margin: 5px;
+}
+#myText{
+    margin: 5px;
+}
+#mySubmit{
+    font-size: 30px;
+    margin-top: 15px;
+    border-radius: 6px;
+    background-color: skyblue;
+}
+
