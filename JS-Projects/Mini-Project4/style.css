@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 2em;
+    background: linear-gradient(#e66465, #9198e5);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#btn{
+    font-size: 1.5em;
+    border-radius: 7px;
+    background-color: rgb(108, 180, 209);
+    color: whitesmoke;
+    transition: 0.25s;
+}
+#btn:hover{
+    background-color: #9198e5;
+}
